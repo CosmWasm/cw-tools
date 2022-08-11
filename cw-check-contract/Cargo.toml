@@ -4,7 +4,7 @@ version = "1.0.0"
 authors = ["Ethan Frey <ethanfrey@users.noreply.github.com>"]
 edition = "2021"
 description = "VM bindings to run verify cosmos contracts."
-repository = "https://github.com/CosmWasm/cosmwasm/tree/main/packages/vm"
+repository = "https://github.com/CosmWasm/cw-tools.git"
 license = "Apache-2.0"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
